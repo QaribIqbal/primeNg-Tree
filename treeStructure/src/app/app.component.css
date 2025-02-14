@@ -1,0 +1,14 @@
+h1{
+text-align: center;
+background-image: linear-gradient(to right, #ff9900, #ffcc00); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  background-clip: text; 
+}
+.custom-img {
+    width: 100%;  /* Make image take full width */
+    height: auto; /* Maintain aspect ratio */
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
